@@ -1,6 +1,6 @@
-backend\.wrangler
-backend\node_modules
-backend\.env
-backend\wrangler.toml
-common\node_modules
-frontend\node_modules
+backend/.wrangler
+backend/node_modules
+backend/.env
+backend/wrangler.toml
+common/node_modules
+frontend/node_modules
